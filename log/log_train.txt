@@ -1,0 +1,37 @@
+loading model ./log/model.ckpt-422950
+**** EPOCH 000 ****
+----
+Current train batch/total batch num: 0/100
+Current train batch/total batch num: 10/100
+Current train batch/total batch num: 20/100
+train mean iou: 0.096034, cyclist: 0.000000, tricycle: 0.000000, sm allMot: 0.672237, bigMot: 0.000000, pedestrian: 0.000000, crowds: 0.000000, unknown: 0.000000
+Current train batch/total batch num: 30/100
+Current train batch/total batch num: 40/100
+train mean iou: 0.080316, cyclist: 0.000000, tricycle: 0.000000, sm allMot: 0.562215, bigMot: 0.000000, pedestrian: 0.000000, crowds: 0.000000, unknown: 0.000000
+Current train batch/total batch num: 50/100
+Current train batch/total batch num: 60/100
+train mean iou: 0.031059, cyclist: 0.000000, tricycle: 0.000000, sm allMot: 0.217415, bigMot: 0.000000, pedestrian: 0.000000, crowds: 0.000000, unknown: 0.000000
+Current train batch/total batch num: 70/100
+Current train batch/total batch num: 80/100
+train mean iou: 0.000000, cyclist: 0.000000, tricycle: 0.000000, sm allMot: 0.000000, bigMot: 0.000000, pedestrian: 0.000000, crowds: 0.000000, unknown: 0.000000
+Current train batch/total batch num: 90/100
+train mean loss: 0.165003
+Current train batch/total batch num: 0/100
+Current train batch/total batch num: 10/100
+Current train batch/total batch num: 20/100
+train mean iou: 0.074818, cyclist: 0.000000, tricycle: 0.000000, sm allMot: 0.523723, bigMot: 0.000000, pedestrian: 0.000000, crowds: 0.000000, unknown: 0.000000
+Current train batch/total batch num: 30/100
+Current train batch/total batch num: 40/100
+train mean iou: 0.133957, cyclist: 0.000000, tricycle: 0.000000, sm allMot: 0.931123, bigMot: 0.006579, pedestrian: 0.000000, crowds: 0.000000, unknown: 0.000000
+Current train batch/total batch num: 50/100
+Current train batch/total batch num: 60/100
+train mean iou: 0.108060, cyclist: 0.000000, tricycle: 0.000000, sm allMot: 0.756418, bigMot: 0.000000, pedestrian: 0.000000, crowds: 0.000000, unknown: 0.000000
+Current train batch/total batch num: 70/100
+Current train batch/total batch num: 80/100
+train mean iou: 0.015656, cyclist: 0.000000, tricycle: 0.000000, sm allMot: 0.006339, bigMot: 0.103253, pedestrian: 0.000000, crowds: 0.000000, unknown: 0.000000
+Current train batch/total batch num: 90/100
+train mean loss: 0.158678
+Current train batch/total batch num: 0/100
+Current train batch/total batch num: 10/100
+Current train batch/total batch num: 20/100
+train mean iou: 0.130719, cyclist: 0.000000, tricycle: 0.000000, sm allMot: 0.915033, bigMot: 0.000000, pedestrian: 0.000000, crowds: 0.000000, unknown: 0.000000
