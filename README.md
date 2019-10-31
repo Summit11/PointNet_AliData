@@ -1,6 +1,8 @@
 # 阿里巴巴点云分割(PointNet)
 
-本项目是点云分割模型PointNet在DataFountain平台上阿里巴巴自动驾驶三维点云分割比赛（https://www.datafountain.cn/competitions/314/details/rule）数据集上的代码。模型和代码结构基本跟PointNet保持一致，主要修改了train部分和inference部分的代码。结果提交了训练赛，效果一般，大概在复赛水平十几名的样子，仅通过此深入学习经典的点云分割网络。
+本项目是点云分割模型PointNet在DataFountain平台上阿里巴巴自动驾驶三维点云分割比赛
+https://www.datafountain.cn/competitions/314/details/rule
+数据集上的代码。模型和代码结构基本跟PointNet保持一致，主要修改了train部分和inference部分的代码。结果提交了训练赛，效果一般，大概在复赛水平十几名的样子，仅通过此深入学习经典的点云分割网络。
 
 ## Requirements
 
