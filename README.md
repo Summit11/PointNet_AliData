@@ -11,7 +11,7 @@ https://www.datafountain.cn/competitions/314/details/rule
 
 ## Training
 
-- STEP 1. 将csv数据转成npy数据，方便读取，此处直接借鉴https://github.com/kiclent/pointSeg 的代码，将每100帧的的数据合并到一个6列的矩阵里，保存npy格式
+- STEP 1. 将csv数据转成npy数据，方便读取，此处直接借鉴https://github.com/kiclent/pointSeg 的代码，将每100帧的的数据合并到一个6列的矩阵里，保存npy格式。转换后的数据已共享到网盘。链接: https://pan.baidu.com/s/1CaSG1S3XvIz8-s1To_ahUg 提取码: bxq8
 
   ```python
   python data_merge.py
